@@ -11,7 +11,6 @@ which extends the abstract `Vehicle` class. The `Car` class contains the followi
 - A `toString` method
 - An `equals` method
 - A `copy` method
-- Another item (e.g. "A new method was also added to the `Vehicle` class")
 
 😁
          
