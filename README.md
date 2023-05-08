@@ -14,5 +14,5 @@ which extends the abstract `Vehicle` class. The `Car` class contains the followi
 - Another item (e.g. "A new method was also added to the `Vehicle` class")
 
 😁
-  
+         
 
